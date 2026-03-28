@@ -1,0 +1,5 @@
+{
+  "name": "Piano Art History Ear Training",
+  "description": "A web application for piano art history ear training. Randomly plays audio snippets for users to guess the piece name.",
+  "requestFramePermissions": []
+}
